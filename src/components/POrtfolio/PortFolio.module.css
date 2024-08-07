@@ -1,0 +1,14 @@
+.hover_div{
+    transition: all 1s;
+    @apply bg-[#30AD94] w-full h-full  rounded-xl  flex justify-center items-center opacity-0
+}
+.hover_div:hover{
+opacity: 90%;
+
+}
+.header_class{
+    @apply uppercase text-4xl text-center text-[#2C3E50] font-bold py-2
+}
+.main_div{
+    @apply md:w-1/3 p-8 relative
+}

@@ -1,0 +1,15 @@
+.footer_class{
+    @apply  bg-slate-900 w-full text-center 
+}
+.main_div{
+    @apply w-full bg-[#2C3E50] flex flex-wrap px-14 py-16 text-white
+}
+.div{
+    @apply w-full sm:w-1/3  p-5
+}
+.heading_style{
+    @apply text-3xl font-medium leading-8 pb-2
+}
+.icon_style{
+    @apply mx-3  border-2 border-white rounded-full p-2
+}

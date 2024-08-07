@@ -1,0 +1,12 @@
+.grand_pa{
+    @apply bg-[#1ABC9C] flex justify-center items-center px-32 py-52
+}
+.header_style{
+    @apply text-center text-white font-bold text-4xl py-3 uppercase
+}
+.icon_div{
+    @apply flex gap-3 items-center justify-center
+}
+.p_style{
+    @apply w-full md:w-1/2 p-3 text-white px-20
+}

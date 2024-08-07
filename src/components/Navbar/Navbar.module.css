@@ -1,0 +1,19 @@
+
+.logo_word{
+    @apply uppercase font-extrabold text-white text-3xl cursor-pointer;
+    
+}
+.nav_ul{
+    @apply flex gap-6 font-bold text-white 
+}
+.nav_ul_2{
+   
+    @apply flex flex-col gap-y-12 font-bold text-white pt-4 pb-8
+}
+.icon_style{
+    @apply border-spacing-4 
+}
+.icon_style_itself{
+    
+    @apply   border-black p-1 rounded 
+}
